@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#1565c0">
+    <title>Agenda Escolar</title>
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="topo">
+    <h1>Minha Agenda</h1>
+    <span id="status"></span>
+  </header>
+
+  <main id="conteudo"></main>
+
+  <form id="form-compromisso">
+    <input name="hora" type="time" required>
+    <input name="titulo" placeholder="Compromisso" required>
+    <button>Adicionar</button>
+  </form>
+
+  <footer>PWA — Semana 12</footer>
+  <script src="db.js"></script>
+  <script src="sync.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

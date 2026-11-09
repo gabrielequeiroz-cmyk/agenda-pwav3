@@ -1,0 +1,27 @@
+
+[
+  {
+    "hora": "07:00",
+    "titulo": "Aula de Programação Web"
+  },
+  {
+    "hora": "08:30",
+    "titulo": "Entrega do trabalho de PWA"
+  },
+  {
+    "hora": "10:00",
+    "titulo": "Reunião do projeto integrador"
+  },
+  {
+    "hora": "13:00",
+    "titulo": "Estudar JavaScript"
+  },
+  {
+    "hora": "15:30",
+    "titulo": "Realizar exercícios de programação"
+  },
+  {
+    "hora": "19:00",
+    "titulo": "Revisar conteúdos para avaliação"
+  }
+]
